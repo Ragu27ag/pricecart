@@ -2,7 +2,7 @@ import React from "react";
 
 import './cart.css';
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 
 
 
