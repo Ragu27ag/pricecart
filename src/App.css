@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
   background: linear-gradient(to right ,#0062E6, #33AEFF)              
 }
